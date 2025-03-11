@@ -23,7 +23,7 @@
 <h3>🧑‍💻 Technologies:</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo" />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="java logo" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=00008B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="react logo" />
   <img width="12" />
