@@ -19,7 +19,8 @@
 
 ###
 
-**Technologies:**
+
+<h3 align="center">🧑‍💻 **Technologies:**</h3>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo" />
@@ -33,7 +34,8 @@
 
 ###
 
-📫 **How to reach me:**
+<h3 align="center">📫 **How to reach me:**</h3>
+
 
 <div align="left">
   <a href="https://discord.com/users/yourDiscordUsername" target="_blank">
