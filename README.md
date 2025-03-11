@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristopher Quiros</h1>
+<h1 align="center">Hi there 👋, I'm Cristopher Quiros</h1>
 <h3 align="center">A passionate student in his journey to be a developer</h3>
 
 - 🔭 I’m currently working on **a Genealogic Tree with C#**
@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on **any projects involving Java & C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godlychrist](https://github.com/godlychrist)
-
-- 📫 How to reach me: **cristopherquiros2@gmail.com**
 
 - ⚡ Fun fact: **I enjoy playing videogames with my friends while singing broken-heart music**
 
@@ -21,15 +19,21 @@
 
 ###
 
+**Technologies:**
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="javascript logo" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=00008B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="react logo" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=CSharp&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo" />
 </div>
 
 ###
+
+📫 **How to reach me:**
 
 <div align="left">
   <a href="https://discord.com/users/yourDiscordUsername" target="_blank">
