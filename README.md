@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Cristopher Quiros</h1>
 <h3 align="center">A passionate student in his journey to be a developer</h3>
 
-- 🔭 I’m currently working on **a Genealogic Tree with C#**
+- 🔭 I’m currently working on **Trivia Game using an API in C#**
 
 - 🌱 I’m currently learning **C#**
 
