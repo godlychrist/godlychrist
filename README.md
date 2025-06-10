@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 👯 I’m looking to collaborate on **any projects if it means that i wll learn#**
+- 👯 I’m looking to collaborate on **any projects if it means that i wll learn**
 
 - 👨‍💻 All of my projects are available at [https://github.com/godlychrist](https://github.com/godlychrist)
 
