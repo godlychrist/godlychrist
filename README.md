@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in Peace 
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **doing exercise**
 
 - 👯 I’m looking to collaborate on **any projects if it means that i wll learn**
 
