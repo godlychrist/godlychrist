@@ -4,7 +4,7 @@
 
 I enjoy building web applications, APIs, backend systems, and data solutions.
 
----
+
 
 ## ⚡ Tech Stack
 
@@ -12,19 +12,17 @@ I enjoy building web applications, APIs, backend systems, and data solutions.
   <img src="https://skillicons.dev/icons?i=js,vue,nuxtjs,laravel&theme=dark" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 
 
 
----
 
 ## 📚 Currently
 
 
 
----
+
 
 ## 📫 Contact
 
