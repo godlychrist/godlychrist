@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher
 
-### Software Engineering Student & Data Engineer from Costa Rica 🇨🇷
+### Software Engineering Student from Costa Rica 🇨🇷
 
 I enjoy building web applications, APIs, backend systems, and data solutions.
 
